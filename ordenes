@@ -1,0 +1,13 @@
+digraph Graphtest {
+	graph [rankdir=TB]
+	node [color=black fontcolor=black fontname=arial fontsize=15 shape=box style=rounded]
+	edge [color="#999999" fontcolor="#888888" fontsize=15]
+	Orden0 [label=carne]
+	Tiempo0 [label=10]
+	Orden1 [label=salchicha]
+	Tiempo1 [label=4]
+	Orden2 [label=queso]
+	Tiempo2 [label=5]
+	Orden3 [label=queso]
+	Tiempo3 [label=5]
+}

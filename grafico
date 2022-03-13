@@ -1,0 +1,11 @@
+// Comentario agregado a la primera línea del código fuente
+digraph Graphtest {
+	graph [rankdir=TB]
+	node [color=black fontcolor=black fontname=arial fontsize=12 shape=box style=rounded]
+	edge [color="#999999" fontcolor="#888888" fontname=arial fontsize=10]
+	B [label="this is B"]
+	C [label="this is C"]
+	D [label="this is D"]
+	E [label="this is E"]
+	F [label="this is F"]
+}
